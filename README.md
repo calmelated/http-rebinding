@@ -14,6 +14,6 @@ do some configurations in order to connect to WAN.
  - Make sure you have socket library in your Linux
  - `git clone` this project
  - `make` to comiple 
- = `./http-rebinding` 
+ - `./http-rebinding` 
  
  
