@@ -13,7 +13,7 @@ do some configurations in order to connect to WAN.
 ### Setup
  - Make sure you have socket library in your Linux
  - `git clone` this project
- - `make` to comiple 
+ - `make` to compile 
  - `./web-rebinding`
  
  
